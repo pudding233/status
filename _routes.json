@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "include": [
+    "/*"
+  ],
+  "exclude": [
+    "/_nuxt/*",
+    "/favicon-error.ico",
+    "/favicon.ico",
+    "/hub.config.json",
+    "/manifest.webmanifest",
+    "/robots.txt",
+    "/sw.js",
+    "/workbox-4723e66c.js",
+    "/images/icons/error/apple-touch-icon-180x180.png",
+    "/images/icons/error/favicon.ico",
+    "/images/icons/error/logo.svg",
+    "/images/icons/error/maskable-icon-512x512.png",
+    "/images/icons/error/pwa-192x192.png",
+    "/images/icons/error/pwa-512x512.png",
+    "/images/icons/error/pwa-64x64.png",
+    "/images/icons/normal/apple-touch-icon-180x180.png",
+    "/images/icons/normal/favicon.ico",
+    "/images/icons/normal/logo.svg",
+    "/images/icons/normal/maskable-icon-512x512.png",
+    "/images/icons/normal/pwa-192x192.png",
+    "/images/icons/normal/pwa-512x512.png",
+    "/images/icons/normal/pwa-64x64.png"
+  ]
+}
